@@ -1,2 +1,2 @@
 ## Porfolio
-You can view my portfolio at here https://nurfarahadibah.github.io
+You can view my project 1 at https://nurfarahadibah.github.io/Project1/index.html 
