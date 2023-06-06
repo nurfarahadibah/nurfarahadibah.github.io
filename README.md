@@ -5,6 +5,6 @@ view my Projek 2 at https://nurfarahadibah.github.io/Project2-Bootstrap/index.ht
 
 Language Translater: https://nurfarahadibah.github.io/Lab_JS/lab6%20LangTrans/index.html
 
-Currency Converter: https://nurfarahadibah.github.io/Lab_JS/Lab9%20currency/
+Currency Converter: https://nurfarahadibah.github.io/Lab_JS/Lab9%20currency/index.html
 
 Weather : https://nurfarahadibah.github.io/Lab_JS/Lab8%20weather/index.html
